@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../es6_features/.idea/es6_fuatures.iml" filepath="$PROJECT_DIR$/../es6_features/.idea/es6_fuatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/es6_fuatures.iml" filepath="$PROJECT_DIR$/.idea/es6_fuatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ts_features/.idea/es6_features.iml" filepath="$PROJECT_DIR$/../ts_features/.idea/es6_features.iml" />
     </modules>
   </component>
 </project>
